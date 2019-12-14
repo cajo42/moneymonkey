@@ -1,4 +1,4 @@
-# moneymonkey
+# moneymonkeyapp
 
 A new Flutter project.
 

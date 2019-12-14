@@ -1,4 +1,4 @@
-package com.example.moneymonkey
+package com.example.moneymonkeyapp
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
